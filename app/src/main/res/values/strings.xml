@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="textView">ちは！あんどろいど</string>
+    <string name="tap_Here">ここをタップ！</string>
+</resources>
